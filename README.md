@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mannybiz93
-- 👀 I’m interested in learning everything about web development.
+- 👀 I’m interested in learning everything about front end web development.
 - 🌱 I’m currently learning HTML, CSS, Javascript
-- 💞️ I’m looking to collaborate on ecommerce sites, websites with interesting layout designs.
 - 📫 How to reach me via email mannybiz@outlook.com
 
 <!---
