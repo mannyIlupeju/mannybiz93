@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mannybiz93
+- 👋 Hi, I’m @mannyIlupeju
 - 👀 I’m interested in learning everything about front end web development.
 - 🌱 I’m currently learning HTML, CSS, Javascript
 - 📫 How to reach me via email mannybiz@outlook.com
